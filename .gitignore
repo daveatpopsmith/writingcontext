@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+*.env
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secret*
+**/secrets/**
+# nested git dirs if any sneak in
+**/.git/
