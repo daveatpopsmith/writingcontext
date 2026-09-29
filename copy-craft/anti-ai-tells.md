@@ -182,3 +182,13 @@ His words are the ship for those cards. Do not restore Peggy v1/v2 object-slogan
 - Oprah badge on gift / as callout on review cards — not the whole on-image title unless Dave wrote it that way.
 - Press bar (Williams Sonoma, Crate & Barrel, Sur La Table, Serious Eats, Bon Appetit) belongs on the long-search review card with the quote.
 
+
+## Dave 2026-09-29 Claude habits (standing)
+
+Full list and the check: `claude-habits.md`. Run it on everything Claude writes, including internal plans and chat replies.
+
+- [ ] Verdict line: a short summary built on a metaphor or an abstraction, with no number or named thing. "The off-season has a ceiling." Fix: the fact, or keep the author's plain label.
+- [ ] Labels promoted to slogans. On internal docs, "Goal." and "Constraint." stay as they are. The headline test is for customer copy.
+- [ ] Contrast frame, colon reveal, mirrored pair, punch coda, abstraction as the actor ("Q4 finds", "the season sets").
+- [ ] Borrowed metaphors (ceiling, lever, runway, sits, holds, lands, earns). Dave's named terms stay. Claude adds none.
+- [ ] A punctuation search is not the check. Read every sentence that has no number or name in it.

@@ -16,6 +16,7 @@ Durable lessons so the copywriter (Peggy) does not start from a blank model.
 | `README.md` | This file |
 | `copy-sop.md` | Index: headline, title, body, anti-AI, voice, kitchen-island |
 | `anti-ai-tells.md` | Never-list. Checklist before send |
+| `claude-habits.md` | Dave 2026-09-29. Claude's default devices and the check. Run on all Claude writing |
 | `kitchen-island.md` | Dave 2026-09-01. Warmth, prose, 45-year-old woman. Can veto SOP |
 | `human-voice-school.md` | 8-week Tuesday drill |
 | `voice-feed.md` | Weekday Roma + Tarly + Peggy feed |
